@@ -8,5 +8,6 @@
 ## DefaultState: enabled
 ## Category: Action Bars
 ## IconTexture: Interface\AddOns\easyButtonColor\Icon.tga
+## X-Curse-Project-ID: 1733027
 
 easyButtonColor.lua
