@@ -7,6 +7,6 @@
 ## Version: @project-version@
 ## DefaultState: enabled
 ## Category: Action Bars
-## IconTexture: Interface\Icons\Ability_Hunter_MarkedForDeath
+## IconTexture: Interface\AddOns\easyButtonColor\Icon.tga
 
 easyButtonColor.lua
