@@ -1,10 +1,10 @@
 ## Interface: 120005, 120007, 120100, 16001
 ## Title: Easy Button Color
 ## Title-zhCN: 动作条按钮变色
-## Title-zhTW: 動作條按鈕變色
+## Title-zhTW: 快捷列按鈕變色
 ## Notes: Colors action bar buttons by state: gray = on cooldown, blue = not enough resources, red = out of range.
 ## Notes-zhCN: 按状态给动作条按钮着色：灰色 = 冷却中，蓝色 = 资源不足，红色 = 超出范围。
-## Notes-zhTW: 依狀態為動作條按鈕上色：灰色 = 冷卻中，藍色 = 資源不足，紅色 = 超出範圍。
+## Notes-zhTW: 依按鈕狀態為原生快捷列著色：灰色代表冷卻中、藍色代表資源不足、紅色代表距離過遠。
 ## Author: ray929
 ## Version: @project-version@
 ## DefaultState: enabled
