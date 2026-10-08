@@ -4,10 +4,6 @@
 >
 > 按状态给原生动作条按钮着色：灰色 = 冷却中，蓝色 = 资源不足，红色 = 超出范围。
 
-> **About this addon:** it is made primarily for the author's own use and for friends to make the game easier to play. Updates and quality are not guaranteed.
->
-> **关于本插件：** 主要是为作者本人和朋友方便游戏而制作。不保证更新与质量。
-
 ## Features / 功能
 
 - Gray when the ability is on cooldown.
