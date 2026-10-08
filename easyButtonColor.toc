@@ -7,6 +7,8 @@
 ## Version: @project-version@
 ## DefaultState: enabled
 ## Category: Action Bars
+## Category-zhCN: 动作条
+## Category-zhTW: 快捷列
 ## IconTexture: Interface\AddOns\easyButtonColor\Icon.tga
 ## X-Curse-Project-ID: 1733027
 
