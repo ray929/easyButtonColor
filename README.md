@@ -14,3 +14,8 @@
 - 目标超出射程时变红。
 - Built for Blizzard's native action bars, and keeps working during combat.
 - 为暴雪原生动作条设计，战斗中同样生效。
+
+## Credits / 致谢
+
+Thanks to all addon developers for their work and inspiration.
+感谢所有插件开发者的付出与启发。
