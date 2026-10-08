@@ -1,0 +1,38 @@
+# IDE / 编辑器
+.vscode
+.idea
+.cursor
+.windsurf
+.cursorrules
+.windsurfrules
+
+# AI 助手 / 工作区元数据（会话、记忆、临时脚本等，非插件代码）
+.trae
+.trae-cn
+.codebuddy
+.workbuddy
+.claude
+.aider*
+.aider.conf.yml
+.gemini
+.qwen
+.roo
+.kilocode
+.continue
+.augment
+.codex
+.specstory
+.reasonix
+reasonix.toml
+
+# 临时 / 测试
+.temp
+.test
+
+# 工作区文档（不属于插件本体）
+AGENTS.md
+docs/
+
+# 系统
+.DS_Store
+Thumbs.db
