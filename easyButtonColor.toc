@@ -1,4 +1,4 @@
-## Interface: 120100, 16001
+## Interface: 120100, 120105, 16001
 ## Title: Easy Button Color
 ## Notes: Colors action bar buttons by state: gray = on cooldown, blue = not enough resources, red = out of range.
 ## Notes-zhCN: 按状态给动作条按钮着色：灰色 = 冷却中，蓝色 = 资源不足，红色 = 超出范围。
